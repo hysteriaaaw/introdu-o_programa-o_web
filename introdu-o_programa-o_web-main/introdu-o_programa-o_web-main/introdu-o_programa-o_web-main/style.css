@@ -1,30 +1,8 @@
+@font-face {
+    font-family: 'ingrid darling';
+    src: url(IngridDarling-Regular.ttf);
+}
+
 body{
     background-color: #90B2CC;
-    color: aliceblue;
-    display: flex;
-    justify-content: space-around;
-    margin-top: ;150px; /*define a margem do topo*/
-}
-
-h1{
-font-size: 32px; altera o tamanho da fonte*/
-}
-span{
-
-}
-color: ;
-font-weight: 600px;
-
-
-
-
-p{
-    font-size: 22px;
-
-}
-
-div[
- width: 500px;
- padding: 20px;
-
-]
+    }
